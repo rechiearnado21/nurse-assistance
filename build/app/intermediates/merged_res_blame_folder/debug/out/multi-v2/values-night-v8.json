@@ -4,7 +4,7 @@
             "outputFile": "com.example.nurse_assistance.app-mergeDebugResources-11:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/rechiearnado/nurse_assistance/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/rechiearnado/Documents/nurse-assistance/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:nurse_assistance/landing/landing.dart';
 import 'package:nurse_assistance/login/login_screen.dart';
 import 'package:nurse_assistance/signup/signup.dart';
+import 'package:page_transition/page_transition.dart';
 
 class WelcomeScreen extends StatefulWidget {
   const WelcomeScreen({super.key});
@@ -108,8 +110,17 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                             color: Colors.green,
                             padding: const EdgeInsets.all(10),
                             onPressed: () async {
-                              Navigator.of(context).push(MaterialPageRoute(
-                                  builder: (context) => const Signup()));
+                              // Navigator.of(context).push(MaterialPageRoute(
+                              //     builder: (context) => const Signup()));
+                              Navigator.push(
+                                context,
+                                PageTransition(
+                                  type: PageTransitionType.leftToRight,
+                                  duration: const Duration(milliseconds: 400),
+                                  alignment: Alignment.centerLeft,
+                                  child: const LandingPage(),
+                                ),
+                              );
                               // Navigator.push(
                               //   context,
                               //   PageTransition(

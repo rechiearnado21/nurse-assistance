@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nurse_assistance/dashboard/patient_form.dart';
+import 'package:nurse_assistance/landing/landing.dart';
 import 'package:nurse_assistance/login/login_screen.dart';
 import 'package:page_transition/page_transition.dart';
 
@@ -116,7 +117,7 @@ class _MainLandingScreenState extends State<MainLandingScreen> {
                                   type: PageTransitionType.leftToRight,
                                   duration: const Duration(milliseconds: 400),
                                   alignment: Alignment.centerLeft,
-                                  child: const PatientForm(),
+                                  child: const LandingPage(),
                                 ),
                               );
                             },
