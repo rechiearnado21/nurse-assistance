@@ -1,0 +1,15 @@
+com.example.nurse_assistance.app-jetified-window-java-1.0.0-beta04-0 /Users/rechiearnado/.gradle/caches/transforms-3/0738edd5f88f65e42d4602f987275a72/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.nurse_assistance.app-jetified-annotation-experimental-1.1.0-1 /Users/rechiearnado/.gradle/caches/transforms-3/369ba75e4c7f33583f011c220195f98e/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.nurse_assistance.app-jetified-core-ktx-1.8.0-2 /Users/rechiearnado/.gradle/caches/transforms-3/44af229f5f41a02a36928bbf659937d6/transformed/jetified-core-ktx-1.8.0/res
+com.example.nurse_assistance.app-jetified-window-1.0.0-beta04-3 /Users/rechiearnado/.gradle/caches/transforms-3/af20e7cd6b1badf1904ee00eac176264/transformed/jetified-window-1.0.0-beta04/res
+com.example.nurse_assistance.app-lifecycle-runtime-2.3.1-4 /Users/rechiearnado/.gradle/caches/transforms-3/d486c7e1830394bdfacf882323bd0c7b/transformed/lifecycle-runtime-2.3.1/res
+com.example.nurse_assistance.app-core-1.8.0-5 /Users/rechiearnado/.gradle/caches/transforms-3/f9774e7e875d5fd39dde358c99caf82e/transformed/core-1.8.0/res
+com.example.nurse_assistance.app-debug-6 /Users/rechiearnado/nurse_assistance/android/app/src/debug/res
+com.example.nurse_assistance.app-main-7 /Users/rechiearnado/nurse_assistance/android/app/src/main/res
+com.example.nurse_assistance.app-pngs-8 /Users/rechiearnado/nurse_assistance/build/app/generated/res/pngs/debug
+com.example.nurse_assistance.app-resValues-9 /Users/rechiearnado/nurse_assistance/build/app/generated/res/resValues/debug
+com.example.nurse_assistance.app-rs-10 /Users/rechiearnado/nurse_assistance/build/app/generated/res/rs/debug
+com.example.nurse_assistance.app-mergeDebugResources-11 /Users/rechiearnado/nurse_assistance/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.nurse_assistance.app-mergeDebugResources-12 /Users/rechiearnado/nurse_assistance/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.nurse_assistance.app-merged_res-13 /Users/rechiearnado/nurse_assistance/build/app/intermediates/merged_res/debug
+com.example.nurse_assistance.app-packaged_res-14 /Users/rechiearnado/nurse_assistance/build/flutter_tts/intermediates/packaged_res/debug
